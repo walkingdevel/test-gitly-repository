@@ -12,6 +12,10 @@ Another hello.
 Multiline Hello
 
 -->
+
+<script  >
+  alert(false)
+</script>
  
 <!-- Another hello. -->
 
