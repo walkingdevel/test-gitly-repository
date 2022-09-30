@@ -13,6 +13,8 @@ Multiline Hello
 
 -->
 
+<a href="javascript:alert('clicked')">Click me</a>
+
 <script  >
   alert(false)
 </script>
